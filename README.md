@@ -10,7 +10,7 @@ A verified social-impact platform that connects donors, volunteers, NGOs, and pe
 
 <br/>
 
-[![Live Application](https://img.shields.io/badge/Live%20App-sahyog--silk.vercel.app-2e6b5e?style=flat-square)](https://sahyog-silk.vercel.app/)
+[![Live Application](https://img.shields.io/badge/Live%20App-sevasankalpbharat.vercel.app-2e6b5e?style=flat-square)](https://sevasankalpbharat.vercel.app/)
 [![React 19](https://img.shields.io/badge/React-19-149ECA?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=111111)](https://firebase.google.com/)
